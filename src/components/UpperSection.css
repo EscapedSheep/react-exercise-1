@@ -1,0 +1,16 @@
+.upperSection img{
+    border-radius: 50%;
+    margin-top: -120px;
+}
+
+.upperSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 200px;
+}
+
+.upperContent {
+    padding: 15px;
+}

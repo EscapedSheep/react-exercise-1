@@ -1,0 +1,26 @@
+.aboutMe,.edu {
+    padding: 5px;
+}
+
+.eduExp {
+    padding-left: 5px;
+    display: grid;
+    grid-template-columns: 100px auto;
+}
+
+.eduExp h4 {
+    font-size: medium;
+    margin: 5px;
+}
+
+.eduExp p {
+    margin: 5px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+}
+
+.eduExp div {
+    background: #E8E9E8;
+    margin: 5px;
+
+}
